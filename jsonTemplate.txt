@@ -1,0 +1,13 @@
+[
+  '{{repeat(200)}}',  {
+    item0001 : {
+      
+            itemID: '{{objectId()}}',
+            aisleID: 'aisleIDsThatThisItemBelongsTo',
+            Title: 'Item Name{{index([])}}',
+            Price: '$0',
+            Discount: '0',
+            URL: '{{"https://firebasestorage.googleapis.com/"}}'
+    }
+  }
+]
