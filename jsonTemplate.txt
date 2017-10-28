@@ -11,3 +11,16 @@
     }
   }
 ]
+
+
+
+[
+  '{{repeat(17)}}',  {
+       Aisle0001: {
+         aisleNames: "Beverages",
+         aisleItems: "itemID, itemID2",
+         aisleID: "auid"
+    }
+  } 
+]
+
