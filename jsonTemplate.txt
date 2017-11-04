@@ -17,10 +17,41 @@
 [
   '{{repeat(17)}}',  {
        Aisle0001: {
-         aisleNames: "Beverages",
-         aisleItems: "itemID, itemID2",
-         aisleID: "auid"
+         Name: "Beverages",
+         Image: "itemID, itemID2",
     }
   } 
 ]
 
+
+Install the PythonScript plugin.
+Save the code below as a PythonScript and associate a shortcut (i.e. Ctrl+i) to it:
+Then open your html file in Notepad++ and run the script below on your html file.
+When prompted by the search replace dialogue, enter the following 2 lines:
+...images/69thStreet[0-9]+.jpg
+...images/xyz00\i(1).jpg
+
+Now, all instances of
+...images/69thStreet010.jpg
+...images/69thStreet011.jpg
+...images/69thStreet012.jpg
+
+will become
+...images/xyz001.jpg
+...images/xyz002.jpg
+...images/xyz003.jpg 
+
+
+New Item Data Structure
+[
+  '{{repeat(200)}}',  {
+    item0001 : {
+            Name: 'ItemNameHere',
+            Image: 'www.urlhere.com',
+			Description: 'descriptionhere',
+            Price: '$0',
+            Discount: '0',
+			MenuID: '00'
+    }
+  }
+]
