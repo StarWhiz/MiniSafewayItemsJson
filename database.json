@@ -1,23 +1,23 @@
 {
 	"Category" : {	  
 		"1": {
-		  "Name": "Soft Drinks",
+		  "Name": "Soda and Juice",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg"
 		},
 		"2": {
-		  "Name": "Cereals",
+		  "Name": "Coffee and Tea",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-westernsoup1.jpg"
 		},
 		"3": {
-		  "Name": "Office Supplies",
+		  "Name": "Other Drinks",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-easternsoup.jpg"
 		},
 		"4": {
-		  "Name": "Personal Care",
+		  "Name": "Snacks",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-sandwich.jpg"
 		},
 		"5": {
-		  "Name": "Medicines",
+		  "Name": "Fruits and Vegetables",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pizza.jpg"
 		},
 		"6": {
@@ -25,11 +25,11 @@
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pasta1.jpg"
 		},
 		"7": {
-		  "Name": "Fruits and Vegetables",
+		  "Name": "Office Supplies",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-chicken.jpg"
 		},
 		"8": {
-		  "Name": "Alcoholic Beverages",
+		  "Name": "Medicine",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fish.jpg"
 		},
 		"9": {
@@ -37,7 +37,7 @@
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-vegetarian.jpg"
 		},
 		"10": {
-		  "Name": "Home Appliances",
+		  "Name": "Hygiene",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-delights.jpg"
 		}
 	},
