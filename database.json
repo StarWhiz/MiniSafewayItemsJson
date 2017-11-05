@@ -44,1604 +44,1604 @@
 
 	"Items" : { 
 		"1": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "7UP Cans 12-Pack",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7Up.jpeg?alt=media&token=2cd3951d-b798-4d89-b266-53ab7b1e31b8",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "3.50",
+		  "Discount": "1.00"
+		  "MenuID": 1
 		},
 		"2": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "7UP Cherry Cans 12-Pack",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7UP%20Cherry.jpeg?alt=media&token=bb55911c-b757-4486-8389-7dcbcf065999",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "3.50",
+		  "Discount": "1.00"
+		  "MenuID": 1
 		},
 		"3": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"4": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"5": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"6": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"7": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"8": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"9": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"10": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"11": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"12": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"13": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"14": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"15": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"16": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"17": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"18": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"19": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"20": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"21": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"22": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"23": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"24": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"25": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"26": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"27": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"28": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"29": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"30": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"31": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"32": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"33": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"34": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"35": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"36": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"37": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"38": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"39": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"40": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"41": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"42": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"43": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"44": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"45": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"46": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"47": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"48": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"49": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"50": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"51": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"52": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"53": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"54": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"55": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"56": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"57": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"58": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"59": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"60": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"61": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"62": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"63": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"64": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"65": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"66": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"67": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"68": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"69": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"70": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"71": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"72": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"73": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"74": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"75": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"76": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"77": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"78": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"79": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"80": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"81": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"82": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"83": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"84": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"85": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"86": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"87": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"88": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"89": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"90": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"91": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"92": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"93": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"94": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"95": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"96": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"97": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"98": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"99": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"100": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"101": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"102": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"103": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"104": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"105": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"106": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"107": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"108": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"109": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"110": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"111": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"112": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"113": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"114": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"115": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"116": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"117": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"118": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"119": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"120": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"121": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"122": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"123": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"124": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"125": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"126": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"127": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"128": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"129": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"130": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"131": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"132": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"133": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"134": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"135": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"136": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"137": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"138": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"139": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"140": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"141": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"142": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"143": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"144": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"145": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"146": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"147": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"148": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"149": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"150": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"151": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"152": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"153": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"154": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"155": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"156": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"157": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"158": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"159": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"160": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"161": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"162": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"163": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"164": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"165": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"166": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"167": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"168": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"169": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"170": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"171": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"172": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"173": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"174": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"175": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"176": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"177": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"178": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"179": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"180": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"181": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"182": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"183": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"184": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"185": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"186": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"187": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"188": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"189": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"190": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"191": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"192": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"193": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"194": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"195": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"196": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"197": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"198": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"199": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		},
 		"200": {
 		  "Name": "ItemNameHere",
 		  "Image": "urlhere",
 		  "Description": "descriptionhere",
-		  "Price": "$0",
-		  "Discount": 0,
-		  "MenuID": 0
+		  "Price": "00",
+		  "Discount": "0.00"
+		  "MenuID": "1"
 		}
 	  
 	},
