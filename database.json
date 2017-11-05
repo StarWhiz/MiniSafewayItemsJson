@@ -52,7 +52,7 @@
 		  "MenuID": "1"
 		},
 		"2": {
-		  "Name": "7UP Cherry Cans 12-Pack",
+		  "Name": "7UP Cherry 12-Pack",
 		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7UP%20Cherry.jpeg?alt=media&token=bb55911c-b757-4486-8389-7dcbcf065999",
 		  "Description": "descriptionhere",
 		  "Price": "3.50",
@@ -60,51 +60,51 @@
 		  "MenuID": "1"
 		},
 		"3": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "Aloe Vera",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FAloe%20Vera.jpeg?alt=media&token=e2644c06-19f9-4293-84ab-7ca5b96d033d",
 		  "Description": "descriptionhere",
-		  "Price": "0.00",
-		  "Discount": "0.00",
+		  "Price": "1.99",
+		  "Discount": "0.50",
 		  "MenuID": "1"
 		},
 		"4": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "Apple Juice",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fapple.jpg?alt=media&token=60b4cd58-23fe-4f49-8e53-38cfbb1c3743",
 		  "Description": "descriptionhere",
-		  "Price": "0.00",
-		  "Discount": "0.00",
+		  "Price": "2.00",
+		  "Discount": "0.50",
 		  "MenuID": "1"
 		},
 		"5": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "Coca Cola - 24 Pack",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%2024pack.jpeg?alt=media&token=b10bacf7-bc19-4dc0-ac03-ec7cf423e684",
 		  "Description": "descriptionhere",
-		  "Price": "0.00",
-		  "Discount": "0.00",
+		  "Price": "6.00",
+		  "Discount": "1.00",
 		  "MenuID": "1"
 		},
 		"6": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "Coca Cola Zero - 24 Pack",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%20Zero.jpeg?alt=media&token=28394cd3-d2d5-4edf-b90a-396ecea91bf6",
 		  "Description": "descriptionhere",
-		  "Price": "0.00",
-		  "Discount": "0.00",
+		  "Price": "8.00",
+		  "Discount": "2.00",
 		  "MenuID": "1"
 		},
 		"7": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "Coca Cola Bottles - 6 Pack",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcocacola.jpeg?alt=media&token=0654df35-ae9b-4c2f-85eb-c8d1789ae7cc",
 		  "Description": "descriptionhere",
-		  "Price": "0.00",
-		  "Discount": "0.00",
+		  "Price": "4.00",
+		  "Discount": "1.50",
 		  "MenuID": "1"
 		},
 		"8": {
-		  "Name": "ItemNameHere",
-		  "Image": "urlhere",
+		  "Name": "Vita Coca Coconut Water",
+		  "Image": "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcoconut.jpeg?alt=media&token=70f4d195-e4f3-40c3-bf57-cfdde47e0890",
 		  "Description": "descriptionhere",
-		  "Price": "0.00",
-		  "Discount": "0.00",
+		  "Price": "1.00",
+		  "Discount": "0.25",
 		  "MenuID": "1"
 		},
 		"9": {
