@@ -5,7 +5,7 @@
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg"
 		},
 		"2": {
-		  "Name": "Foods",
+		  "Name": "Cereals",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-westernsoup1.jpg"
 		},
 		"3": {
@@ -21,7 +21,7 @@
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pizza.jpg"
 		},
 		"6": {
-		  "Name": "Pet Care",
+		  "Name": "Frozen Foods",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pasta1.jpg"
 		},
 		"7": {
@@ -37,7 +37,7 @@
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-vegetarian.jpg"
 		},
 		"10": {
-		  "Name": "Home",
+		  "Name": "Home Appliances",
 		  "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-delights.jpg"
 		}
 	},
