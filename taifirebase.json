@@ -1644,20 +1644,21 @@
     }
   },
   "History" : {
-    "-KyhOfuu-fF0qg_hE1Bk" : {
-      "discount" : "0",
-      "price" : "1000",
-      "productId" : "10",
-      "productName" : "BLARG",
-      "quantity" : "1",
-      "userId" : "tai"
+    "-Kyil1A02Nag_SvVloA9" : {
+      "discount" : "0.00",
+      "foodId" : "10",
+      "image" : "emptyURL",
+      "name" : "Empty",
+      "price" : "5.00",
+      "quantity" : "Empty",
+      "userId" : "Empty"
     }
   },
   "User" : {
-    "tai" : {
-      "id" : "tai",
-      "name" : "a",
-      "password" : "tai"
+    "testingcode" : {
+      "id" : "testingcode",
+      "name" : "123",
+      "password" : "123"
     }
   }
 }
