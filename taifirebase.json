@@ -37,8 +37,8 @@
       "Name" : "Cleaning Supplies"
     },
     "10" : {
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2F02ea83110db1.jpg?alt=media&token=096203f5-4196-49fe-96b2-7ada92a1c6dc",
-      "Name" : "Personal Hygiene"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Fhomeappliacnes.jpg?alt=media&token=d5f079e9-4f42-42be-9700-ae3da22cf2ba",
+      "Name" : "Home Appliances"
     }
   },
   "Foods" : {
@@ -1677,6 +1677,51 @@
       "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbaked%20cheetos.jpg?alt=media&token=6528609c-90da-4c9f-b2ca-ffb2f39f0059",
       "name" : "ItemNameHere",
       "price" : "0.00",
+      "quantity" : "1",
+      "userId" : "testingcode"
+    },
+    "-KyiqdPl_4XORykrFqWN" : {
+      "discount" : "15.00",
+      "foodId" : "121",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2Fbackpack.jpg?alt=media&token=0cc24fac-9bbe-45ca-a4d1-e4a82c7f973b",
+      "name" : "SwissGear® 18.5 Laptop Backpack - Black/Red",
+      "price" : "49.99",
+      "quantity" : "1",
+      "userId" : "testingcode"
+    },
+    "-KyiqdPm-fgKfxDh_Or-" : {
+      "discount" : "0.00",
+      "foodId" : "123",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2Fbinder.jpg?alt=media&token=5de5b0a2-f30f-4a04-9f63-6e264757bb2f",
+      "name" : "cover",
+      "price" : "1.49",
+      "quantity" : "1",
+      "userId" : "testingcode"
+    },
+    "-Kyj2lSM-3C-FJtFE_OF" : {
+      "discount" : "2.00",
+      "foodId" : "52",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmonster.jpeg?alt=media&token=51de9037-d8aa-42b8-9b5b-1177013f8d6f",
+      "name" : "Monster EnergyOriginal - 4pk/16 fl oz Cans",
+      "price" : "6.59",
+      "quantity" : "1",
+      "userId" : "testingcode"
+    },
+    "-Kyj5cXdpaZMNG_vRvMY" : {
+      "discount" : "0.00",
+      "foodId" : "131",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Medicines%2F12049604.jpeg?alt=media&token=66725d9a-c7e5-4239-a0c6-3869e9572611",
+      "name" : "Zyrtec",
+      "price" : "26.99",
+      "quantity" : "1",
+      "userId" : "testingcode"
+    },
+    "-Kyj5cXeTNLaty95iKfh" : {
+      "discount" : "0.00",
+      "foodId" : "151",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Home%20Appliances%2F1233931_ra.jpg%3BmaxHeight%3D640%3BmaxWidth%3D550.jpeg?alt=media&token=e5be0e27-429a-4051-9b81-86582d7bec97",
+      "name" : "Hamilton Beach - Toastation 2-Slice Toaster and Toaster Oven",
+      "price" : "99.99",
       "quantity" : "1",
       "userId" : "testingcode"
     }
