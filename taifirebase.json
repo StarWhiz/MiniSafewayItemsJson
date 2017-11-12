@@ -1,44 +1,44 @@
 {
   "Category" : {
     "01" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg",
-      "Name" : "Soda and Juice"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Fsoda-cans_EUHH.jpg?alt=media&token=5979b4c5-bb04-4837-9ac9-56baaf948353",
+      "Name" : "Sodas and Juices"
     },
     "02" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-westernsoup1.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Fteaandcoffee.jpg?alt=media&token=7849ec27-c171-4f5c-9312-f5358f808f4a",
       "Name" : "Coffee and Tea"
     },
     "03" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-easternsoup.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Fbobatea_edited_wide-b243a482be15c1d91930422305ade74a117c5d6d.jpg?alt=media&token=34018522-1c80-49d1-b7bf-3c6437e6ad36",
       "Name" : "Other Drinks"
     },
     "04" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-sandwich.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Fdscn0212.jpg?alt=media&token=84ad8854-73b0-43a7-91a5-d6e1f11182fd",
       "Name" : "Snacks"
     },
     "05" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pizza.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Ffruits-veggies-full_600x350_71428309873.jpg?alt=media&token=efc96ea1-1ff5-4f9f-ab7a-82515ba71b26",
       "Name" : "Fruits and Vegetables"
     },
     "06" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-pasta1.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2FAAEAAQAAAAAAAAlzAAAAJGI1YzkxMzk5LTQwYjQtNGVjMS05NmQ2LWUyMDU0NGRmNjc0Yw.jpg?alt=media&token=93d3d64e-2139-43c6-8004-e2de8d010ff9",
       "Name" : "Frozen Foods"
     },
     "07" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-chicken.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Foffice-supplies.jpg?alt=media&token=a2b2ef41-e342-4ba1-910c-859b6e8c8d24",
       "Name" : "Office Supplies"
     },
     "08" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fish.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2F56bce0261f00007f00217d75.jpeg?alt=media&token=d2616051-d628-4d76-877d-49a45d6d43a3",
       "Name" : "Medicine"
     },
     "09" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-vegetarian.jpg",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2Fcleaning-supplies-large.jpg?alt=media&token=7a71ab8d-18ad-4b26-b42a-1198cf928ee9",
       "Name" : "Cleaning Supplies"
     },
     "10" : {
-      "Image" : "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-delights.jpg",
-      "Name" : "Hygiene"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2F02ea83110db1.jpg?alt=media&token=096203f5-4196-49fe-96b2-7ada92a1c6dc",
+      "Name" : "Personal Hygiene"
     }
   },
   "Foods" : {
@@ -1652,6 +1652,33 @@
       "price" : "5.00",
       "quantity" : "Empty",
       "userId" : "Empty"
+    },
+    "-KyimWH6whYCDiWO9f3d" : {
+      "discount" : "0.00",
+      "foodId" : "50",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2FG-energy.jpeg?alt=media&token=5f7f2771-91fc-40b0-82c3-c47d69ca2750",
+      "name" : "Gatorade Cool Blue Sports Drink 32 oz",
+      "price" : "0.99",
+      "quantity" : "1",
+      "userId" : "testingcode"
+    },
+    "-Kyimc9i8HjQaoKTIbDK" : {
+      "discount" : "1.00",
+      "foodId" : "01",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7Up.jpeg?alt=media&token=2cd3951d-b798-4d89-b266-53ab7b1e31b8",
+      "name" : "7UP Cans 12-Pack",
+      "price" : "3.50",
+      "quantity" : "1",
+      "userId" : "testingcode"
+    },
+    "-Kyimc9j1OL8-3zgWEqC" : {
+      "discount" : "0.00",
+      "foodId" : "60",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbaked%20cheetos.jpg?alt=media&token=6528609c-90da-4c9f-b2ca-ffb2f39f0059",
+      "name" : "ItemNameHere",
+      "price" : "0.00",
+      "quantity" : "1",
+      "userId" : "testingcode"
     }
   },
   "User" : {
