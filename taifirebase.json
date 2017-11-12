@@ -1643,15 +1643,21 @@
       "Price" : "0.00"
     }
   },
+  "History" : {
+    "-KyhOfuu-fF0qg_hE1Bk" : {
+      "discount" : "0",
+      "price" : "1000",
+      "productId" : "10",
+      "productName" : "BLARG",
+      "quantity" : "1",
+      "userId" : "tai"
+    }
+  },
   "User" : {
-    "ph" : {
-      "name" : "ph",
-      "password" : "1"
-    },
-    "u" : {
-      "id" : "u",
-      "name" : "tai",
-      "password" : "123"
+    "tai" : {
+      "id" : "tai",
+      "name" : "a",
+      "password" : "tai"
     }
   }
 }
