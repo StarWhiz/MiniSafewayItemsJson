@@ -525,7 +525,7 @@
     "61" : {
       "Description" : "Animal cracker from Barnum's",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbarnum's%20animals%20craker.jpg?alt=media&token=5882d8b2-94dd-41ac-ab44-819917b38e7c",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbarnums%20animals%20craker.jpg?alt=media&token=4ad75e75-a906-4e85-9829-ad3faaea18fa",
       "MenuId" : "04",
       "Name" : "Barnum's animal cracker",
       "Price" : "2.00"
@@ -557,7 +557,7 @@
     "65" : {
       "Description" : "BUSH's Garbanzo Beans",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbush's%20garbanzo%20beans.jpg?alt=media&token=261f90ba-9ebd-4308-96ae-dd1275e1a818",
+      "Image" : https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbushs%20garbanzo%20beans.jpg?alt=media&token=b827dab4-5d45-48b1-9f7a-f2967eb3ef4b",
       "MenuId" : "04",
       "Name" : "BUSH'S Garbanzo Beans",
       "Price" : "1.00"
