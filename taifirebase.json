@@ -83,7 +83,7 @@
       "Price" : "6.99"
     },
     "06" : {
-      "Description" : "Enjoy Coca-Cola Zero Sugars real Coca-Cola taste and zero calories with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
+      "Description" : "Enjoy Coca-Cola Zero Sugar's real Coca-Cola taste and zero calories with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%20Zero.jpeg?alt=media&token=a6c755c4-8664-407b-9df8-56112bed9d68",
       "MenuId" : "01",
@@ -107,7 +107,7 @@
       "Price" : "3.99"
     },
     "09" : {
-      "Description" : "With a natural citrus flavor added to Americas favorite diet soft drink, Diet Coke with Lime blends contemporary sophistication with familiar refreshment.",
+      "Description" : "With a natural citrus flavor added to America's favorite diet soft drink, Diet Coke with Lime blends contemporary sophistication with familiar refreshment.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCoke%20Lemon.jpeg?alt=media&token=c6b602b2-68b2-4bda-a350-dd99f6d0fc72",
       "MenuId" : "01",
@@ -147,7 +147,7 @@
       "Price" : "6.99"
     },
     "14" : {
-      "Description" : "Enjoy Coca-Cola Zero Sugars real Coca-Cola taste and zero calories with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
+      "Description" : "Enjoy Coca-Cola Zero Sugar's real Coca-Cola taste and zero calories with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%20Zero.jpeg?alt=media&token=28394cd3-d2d5-4edf-b90a-396ecea91bf6",
       "MenuId" : "01",
@@ -171,7 +171,7 @@
       "Price" : "3.99"
     },
     "17" : {
-      "Description" : "With a natural citrus flavor added to Americas favorite diet soft drink, Diet Coke with Lime blends contemporary sophistication with familiar refreshment.",
+      "Description" : "With a natural citrus flavor added to America's favorite diet soft drink, Diet Coke with Lime blends contemporary sophistication with familiar refreshment.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCoke%20Lemon.jpeg?alt=media&token=e9e2893b-9336-49b6-9857-10840b992961",
       "MenuId" : "01",
@@ -435,7 +435,7 @@
       "Price" : "15.89"
     },
     "50" : {
-      "Description" : "With a legacy of over 40 years, Gatorade Thirst Quencher is the most scientifically researched and game tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why its trusted by some of the worlds best athletes.",
+      "Description" : "With a legacy of over 40 years, Gatorade Thirst Quencher is the most scientifically researched and game tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it's trusted by some of the world's best athletes.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fg-energy.jpg?alt=media&token=95cedf1b-67a7-4224-a7b5-3a11e4b35046",
       "MenuId" : "03",
@@ -483,7 +483,7 @@
       "Price" : "2.59"
     },
     "56" : {
-      "Description" : "Add a splash of fruity deliciousness to your sparkling water with a SodaStream MyWater Flavor Essence Variety 3-Pack. This variety pack of SodaStream syrup gives you 3 all-natural flavors to enjoy: orange, raspberry and lemon-lime. It doesn't have any artificial flavors, artificial colors, artificial sweeteners or preservatives. Its a great choice for making unsweetened sparkling soda for your family and friends. Each bottle of this soda syrup makes 12 liters of soda, or about 50 servings. Check out all of our SodaStream flavors to enjoy even more great-tasting sparkling drinks.",
+      "Description" : "Add a splash of fruity deliciousness to your sparkling water with a SodaStream MyWater Flavor Essence Variety 3-Pack. This variety pack of SodaStream syrup gives you 3 all-natural flavors to enjoy: orange, raspberry and lemon-lime. It doesn't have any artificial flavors, artificial colors, artificial sweeteners or preservatives. It's a great choice for making unsweetened sparkling soda for your family and friends. Each bottle of this soda syrup makes 12 liters of soda, or about 50 servings. Check out all of our SodaStream flavors to enjoy even more great-tasting sparkling drinks.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fsoda%20stream.jpg?alt=media&token=41575e95-ac1a-4a83-b8b9-0958b8ad6583",
       "MenuId" : "03",
@@ -525,9 +525,9 @@
     "61" : {
       "Description" : "Animal cracker from Barnum's",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbarnums%20animals%20craker.jpg?alt=media&token=4ad75e75-a906-4e85-9829-ad3faaea18fa",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbarnum's%20animals%20craker.jpg?alt=media&token=5882d8b2-94dd-41ac-ab44-819917b38e7c",
       "MenuId" : "04",
-      "Name" : "Barnums animal cracker",
+      "Name" : "Barnum's animal cracker",
       "Price" : "2.00"
     },
     "62" : {
@@ -551,15 +551,15 @@
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbush%20black%20beans.jpg?alt=media&token=80d1779c-c11d-4f30-933c-e7fca0c00902",
       "MenuId" : "04",
-      "Name" : "BUSHs Black Beans",
+      "Name" : "BUSH'S Black Beans",
       "Price" : "1.00"
     },
     "65" : {
       "Description" : "BUSH's Garbanzo Beans",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbushs%20garbanzo%20beans.jpg?alt=media&token=b827dab4-5d45-48b1-9f7a-f2967eb3ef4b",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbush's%20garbanzo%20beans.jpg?alt=media&token=261f90ba-9ebd-4308-96ae-dd1275e1a818",
       "MenuId" : "04",
-      "Name" : "BUSHs Garbanzo Beans",
+      "Name" : "BUSH'S Garbanzo Beans",
       "Price" : "1.00"
     },
     "66" : {
@@ -715,19 +715,19 @@
       "Price" : "3.00"
     },
     "85" : {
-      "Description" : "Ricos Flourmer Nacho",
+      "Description" : "Rico's Flourmer Nacho",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fricos%20flourmet%20nacho.jpg?alt=media&token=f6a24fc2-af1e-4a1c-911c-f3eae8beb962",
       "MenuId" : "04",
-      "Name" : "Ricos Flourmet Nacho",
+      "Name" : "Rico's Flourmet Nacho",
       "Price" : "12.00"
     },
     "86" : {
-      "Description" : "Ricos Premium Cheddar",
+      "Description" : "Rico's Premium Cheddar",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fricos%20priemium.jpg?alt=media&token=36e63130-2023-472b-8d01-d67960687ac5",
       "MenuId" : "04",
-      "Name" : "Ricos Premium Cheddar",
+      "Name" : "Rico's Premium Cheddar",
       "Price" : "2.50"
     },
     "87" : {
@@ -811,11 +811,11 @@
       "Price" : "4.00"
     },
     "97" : {
-      "Description" : "Snyders Pretzel Pieces",
+      "Description" : "Snyder's Pretzel Pieces",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fsyders.jpg?alt=media&token=77122991-8aa0-4ffb-9bf8-e4470fbf197a",
       "MenuId" : "04",
-      "Name" : "Snyders",
+      "Name" : "Snyder's",
       "Price" : "4.00"
     },
     "98" : {
@@ -931,7 +931,7 @@
       "Price" : "2.00"
     },
     "112" : {
-      "Description" : "Asian Inspired General Tsos Spicy Chicken",
+      "Description" : "Asian Inspired General Tso's Spicy Chicken",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2F25-frozen-meals-general-tsos-spicy-chicken.jpg?alt=media&token=d50e4b41-e7a0-44f7-a3e0-97314a4655b9",
       "MenuId" : "06",
@@ -1027,19 +1027,19 @@
       "Price" : "1.49"
     },
     "124" : {
-      "Description" : "Attach items to paper, wood, cloth, pottery, and more with the non-toxic adhesive of Elmers Washable School Glue. Specially formulated to be washable and easy to use, Elmers School Glue perfect for school projects and home arts and crafts. Elmer’s School Glue is adjustable before setting and does not run, delivering reliable results with every use. You can also use your liquid glue to create glue slime!",
+      "Description" : "Attach items to paper, wood, cloth, pottery, and more with the non-toxic adhesive of Elmer's Washable School Glue. Specially formulated to be washable and easy to use, Elmer's School Glue perfect for school projects and home arts and crafts. Elmer’s School Glue is adjustable before setting and does not run, delivering reliable results with every use. You can also use your liquid glue to create glue slime!",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2Fglue%20bottle.jpg?alt=media&token=b3b08dfd-0e8a-491e-a9d4-0a055d5ee7ca",
       "MenuId" : "07",
-      "Name" : "Elmers® Washable School Glue",
+      "Name" : "Elmer's® Washable School Glue",
       "Price" : "1.49"
     },
     "125" : {
-      "Description" : "Assemble school projects, crafts, decorations, and more with the non-toxic adhesive of Elmers Disappearing Purple School Glue Sticks. Specially formulated to be easy to use and clean up, this glue is purple when first applied so its easy to see, then it dries clear for great results. Elmers Disappearing Purple School Glue Sticks are washable and non-toxic for fun and easy crafting.",
+      "Description" : "Assemble school projects, crafts, decorations, and more with the non-toxic adhesive of Elmer's Disappearing Purple School Glue Sticks. Specially formulated to be easy to use and clean up, this glue is purple when first applied so it's easy to see, then it dries clear for great results. Elmer's Disappearing Purple School Glue Sticks are washable and non-toxic for fun and easy crafting.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2Fglue.jpg?alt=media&token=650b650b-20b6-400e-bd6a-d9e01bdc27f5",
       "MenuId" : "07",
-      "Name" : "Elmers® Washable Glue Sticks Disappearing Purple",
+      "Name" : "Elmer's® Washable Glue Sticks Disappearing Purple",
       "Price" : "2.29"
     },
     "126" : {
@@ -1059,7 +1059,7 @@
       "Price" : "3.47"
     },
     "128" : {
-      "Description" : "BIC Atlantis Exact Ball Pen delivers exact precise lines for clean writing and writes smoother than BICs classic ink system. It is a sleek, professional, smooth-click retractable ball pen with a full grip area for added control and comfort. Available in fine point in black, blue, red, and fashion ink.",
+      "Description" : "BIC Atlantis Exact Ball Pen delivers exact precise lines for clean writing and writes smoother than BIC's classic ink system. It is a sleek, professional, smooth-click retractable ball pen with a full grip area for added control and comfort. Available in fine point in black, blue, red, and fashion ink.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2Fpen.jpg?alt=media&token=6408814b-6ec2-4ad4-b2b8-d56a07f43b11",
       "MenuId" : "07",
@@ -1111,7 +1111,7 @@
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Medicines%2F14515037_Alt01.jpeg?alt=media&token=224ac7bd-a0e0-4d26-b39d-dd133ab3eb1b",
       "MenuId" : "08",
-      "Name" : "Childrens ibuprofen",
+      "Name" : "Children's ibuprofen",
       "Price" : "4.99"
     },
     "135" : {
@@ -1679,87 +1679,6 @@
       "price" : "4.00",
       "quantity" : "1",
       "userId" : "tai"
-    },
-    "-KysOK2OJk3todeAZMlP" : {
-      "discount" : "0.00",
-      "foodId" : "02",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7Up.jpeg?alt=media&token=bf51da80-cb94-41af-8e3a-dcc822fbc453",
-      "name" : "7 Up",
-      "price" : "5.29",
-      "quantity" : "1",
-      "userId" : "tai"
-    },
-    "-KysOK2RbNfPASClVOkN" : {
-      "discount" : "0.00",
-      "foodId" : "03",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FAloe%20Vera.jpeg?alt=media&token=032c8f59-49dc-43af-b02c-6c34ccc31f64",
-      "name" : "Aloe Vera",
-      "price" : "2.42",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KysOK2RbNfPASClVOkO" : {
-      "discount" : "0.00",
-      "foodId" : "59",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fapplesauce.jpg?alt=media&token=9e8b8d7a-6e35-43e7-b2f4-0d743a5d22ce",
-      "name" : "Applesauce",
-      "price" : "2.50",
-      "quantity" : "1",
-      "userId" : "newuser"
-    },
-    "-KysOK2SvEVFaavCJ5VF" : {
-      "discount" : "0.00",
-      "foodId" : "51",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmilk.jpg?alt=media&token=d98d189b-4879-4275-a9a7-73f7129771b9",
-      "name" : "Horizon Organic Whole Milk 1 gal",
-      "price" : "5.00",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KysOK2SvEVFaavCJ5VG" : {
-      "discount" : "0.00",
-      "foodId" : "66",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fcheetos%20puff.jpg?alt=media&token=f6620ea5-9d9e-4f36-9552-70852e9a62bc",
-      "name" : "Cheetos Puffs",
-      "price" : "3.50",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KysORbTAC7u7mQvHLXP" : {
-      "discount" : "0.00",
-      "foodId" : "131",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Medicines%2F12049604.jpeg?alt=media&token=66725d9a-c7e5-4239-a0c6-3869e9572611",
-      "name" : "Zyrtec",
-      "price" : "26.99",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KysOXrkJQ9iksjq9YOn" : {
-      "discount" : "0.00",
-      "foodId" : "03",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FAloe%20Vera.jpeg?alt=media&token=032c8f59-49dc-43af-b02c-6c34ccc31f64",
-      "name" : "Aloe Vera",
-      "price" : "2.42",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KysOXrkJQ9iksjq9YOo" : {
-      "discount" : "0.00",
-      "foodId" : "132",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Medicines%2F13327570.jpeg?alt=media&token=7be14ef6-1107-47ea-8a1f-da0a74c7ec4b",
-      "name" : "VapoRub",
-      "price" : "9.99",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KysP4PiKlds0Z5HZ3SE" : {
-      "discount" : "2.00",
-      "foodId" : "52",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmonster.jpg?alt=media&token=6633a81e-56b8-4441-a324-44fb5f7114ac",
-      "name" : "Monster EnergyOriginal - 4pk/16 fl oz Cans",
-      "price" : "6.59",
-      "quantity" : "1",
-      "userId" : "testingcode"
     }
   },
   "User" : {
@@ -1778,11 +1697,6 @@
       "name" : "",
       "password" : "tai"
     },
-    "ta" : {
-      "id" : "ta",
-      "name" : "tai",
-      "password" : "ta"
-    },
     "tai" : {
       "id" : "tai",
       "name" : "taidao",
@@ -1798,8 +1712,5 @@
       "name" : "viet qua dep trai",
       "password" : "123"
     }
-  },
-  "Wishlist" : {
-    "Name" : " "
   }
 }
