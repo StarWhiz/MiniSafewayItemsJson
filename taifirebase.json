@@ -21,7 +21,7 @@
       "Name" : "Fruits and Vegetables"
     },
     "06" : {
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2FAAEAAQAAAAAAAAlzAAAAJGI1YzkxMzk5LTQwYjQtNGVjMS05NmQ2LWUyMDU0NGRmNjc0Yw.jpg?alt=media&token=93d3d64e-2139-43c6-8004-e2de8d010ff9",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Categories%2FFrozen-Foods.jpg?alt=media&token=0082b326-e227-489e-a9f4-c126045535cb",
       "Name" : "Frozen Foods"
     },
     "07" : {
@@ -43,105 +43,105 @@
   },
   "Foods" : {
     "01" : {
-      "Description" : "descriptionhere",
-      "Discount" : "1.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7Up.jpeg?alt=media&token=2cd3951d-b798-4d89-b266-53ab7b1e31b8",
-      "MenuId" : "01",
-      "Name" : "7UP Cans 12-Pack",
-      "Price" : "3.50"
-    },
-    "02" : {
-      "Description" : "descriptionhere",
-      "Discount" : "1.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7UP%20Cherry.jpeg?alt=media&token=bb55911c-b757-4486-8389-7dcbcf065999",
-      "MenuId" : "01",
-      "Name" : "7UP Cherry 12-Pack",
-      "Price" : "3.50"
-    },
-    "03" : {
-      "Description" : "descriptionhere",
-      "Discount" : "0.50",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FAloe%20Vera.jpeg?alt=media&token=e2644c06-19f9-4293-84ab-7ca5b96d033d",
-      "MenuId" : "01",
-      "Name" : "Aloe Vera",
-      "Price" : "1.99"
-    },
-    "04" : {
-      "Description" : "descriptionhere",
-      "Discount" : "0.50",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fapple.jpg?alt=media&token=60b4cd58-23fe-4f49-8e53-38cfbb1c3743",
-      "MenuId" : "01",
-      "Name" : "Apple Juice",
-      "Price" : "2.00"
-    },
-    "05" : {
-      "Description" : "descriptionhere",
-      "Discount" : "1.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%2024pack.jpeg?alt=media&token=b10bacf7-bc19-4dc0-ac03-ec7cf423e684",
-      "MenuId" : "01",
-      "Name" : "Coca Cola - 24 Pack",
-      "Price" : "6.00"
-    },
-    "06" : {
-      "Description" : "descriptionhere",
-      "Discount" : "2.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%20Zero.jpeg?alt=media&token=28394cd3-d2d5-4edf-b90a-396ecea91bf6",
-      "MenuId" : "01",
-      "Name" : "Coca Cola Zero - 24 Pack",
-      "Price" : "8.00"
-    },
-    "07" : {
-      "Description" : "descriptionhere",
-      "Discount" : "1.50",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcocacola.jpeg?alt=media&token=0654df35-ae9b-4c2f-85eb-c8d1789ae7cc",
-      "MenuId" : "01",
-      "Name" : "Coca Cola Bottles - 6 Pack",
-      "Price" : "4.00"
-    },
-    "08" : {
-      "Description" : "This is one box of water",
-      "Discount" : "0.25",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcoconut.jpeg?alt=media&token=70f4d195-e4f3-40c3-bf57-cfdde47e0890",
-      "MenuId" : "01",
-      "Name" : "Vita Coca Coconut Water",
-      "Price" : "1.00"
-    },
-    "09" : {
       "Description" : "The light, crisp flavor of Diet 7UP Cherry makes it a refreshing, calorie-free drink on its own, and the perfect addition to recipes for every occasion.",
-      "Discount" : "3.49",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7UP%20Cherry.jpeg?alt=media&token=34eee811-3cab-4cb1-8d72-b23d749a8b31",
+      "Discount" : "2.99",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7%20UP%20Cherry.jpg?alt=media&token=79522f7d-1612-4af2-a819-20b513107d06",
       "MenuId" : "01",
       "Name" : "7 Up Cherry",
       "Price" : "5.29"
     },
-    "10" : {
+    "02" : {
       "Description" : "The light, crisp, lemon and lime flavor of 7UP makes it a refreshing drink on its own, and the perfect addition to recipes for every occasion.",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7Up.jpeg?alt=media&token=2cd3951d-b798-4d89-b266-53ab7b1e31b8",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7Up.jpeg?alt=media&token=bf51da80-cb94-41af-8e3a-dcc822fbc453",
       "MenuId" : "01",
       "Name" : "7 Up",
       "Price" : "5.29"
     },
-    "11" : {
+    "03" : {
       "Description" : "IB Coconut Aloe Vera 1.5 lt. Aloe vera is a succulent plant that can be traced back 6,000 years to ancient Egypt.",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FAloe%20Vera.jpeg?alt=media&token=e2644c06-19f9-4293-84ab-7ca5b96d033d",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FAloe%20Vera.jpeg?alt=media&token=032c8f59-49dc-43af-b02c-6c34ccc31f64",
       "MenuId" : "01",
       "Name" : "Aloe Vera",
       "Price" : "2.42"
     },
+    "04" : {
+      "Description" : "Chill and shake well before serving. Refrigerate after opening. Serving Size: 8.000 ounces Servings per Container: 8.000 Containers per Package: 1.000 Form: liquid Flavor: apple, TCIN: 13305665 UPC: 085239665169 Store Item Number (DPCI): 203-14-0682 Grocery Disclaimer: Content on this site is for reference purposes only. Target does not represent or warrant that the nutrition, ingredient, allergen and other product information on our Web or Mobile sites are accurate or complete, since this information comes from the product manufacturers. On occasion, manufacturers may improve or change their product formulas and update their labels. We recommend that you do not rely solely on the information presented on our Web or Mobile sites and that you review the product?s label or contact the manufacturer directly if you have specific product concerns or questions. If you have specific healthcare concerns or questions about the products displayed, please contact your licensed healthcare professional for advice or answers. Any additional pictures are suggested servings only. ",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fapple.jpg?alt=media&token=b3b0d479-6e9e-44cb-9f22-b54a85dbdae0",
+      "MenuId" : "01",
+      "Name" : "Apple Juice",
+      "Price" : "2.57"
+    },
+    "05" : {
+      "Description" : "Enjoy Coca-Colas crisp, delicious taste with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
+      "Discount" : "2.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcoca%20cola.jpg?alt=media&token=4b4625d3-374e-4b8f-a644-3112bb4509b4",
+      "MenuId" : "01",
+      "Name" : "Coca Cola - 24 Pack",
+      "Price" : "6.99"
+    },
+    "06" : {
+      "Description" : "Enjoy Coca-Cola Zero Sugar's real Coca-Cola taste and zero calories with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%20Zero.jpeg?alt=media&token=a6c755c4-8664-407b-9df8-56112bed9d68",
+      "MenuId" : "01",
+      "Name" : "Coca Cola Zero - 24 Pack",
+      "Price" : "5.49"
+    },
+    "07" : {
+      "Description" : "Enjoy Coca-Colas crisp, delicious taste with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcocacola.jpeg?alt=media&token=9f5b1268-af79-42a2-a907-b0f5d8f89bbd",
+      "MenuId" : "01",
+      "Name" : "Coca Cola 8oz, 6pk",
+      "Price" : "4.00"
+    },
+    "08" : {
+      "Description" : "Not so long ago, you had to use a machete if you wanted a sip of pure coconut water. ",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcoconut.jpeg?alt=media&token=d511f8d0-802c-46c0-83ed-b99307e90549",
+      "MenuId" : "01",
+      "Name" : "Vita Coca Coconut Water",
+      "Price" : "3.99"
+    },
+    "09" : {
+      "Description" : "With a natural citrus flavor added to America's favorite diet soft drink, Diet Coke with Lime blends contemporary sophistication with familiar refreshment.",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCoke%20Lemon.jpeg?alt=media&token=c6b602b2-68b2-4bda-a350-dd99f6d0fc72",
+      "MenuId" : "01",
+      "Name" : "Coke Lime",
+      "Price" : "5.29"
+    },
+    "10" : {
+      "Description" : "Crystal Light Pure is a refreshing beverage mix that is light on calories but not on tastes",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCrystal%20Pure.jpeg?alt=media&token=fa0ea359-771b-4718-a834-069b530a97ac",
+      "MenuId" : "01",
+      "Name" : "Crystal Pure",
+      "Price" : "2.64"
+    },
+    "11" : {
+      "Description" : "Explore the bright and bold fruity flavors with this Fanta® Grape Soda.",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FFanta%20Grape.jpeg?alt=media&token=a9c08cbd-ccfa-4118-af16-cbd5421531b5",
+      "MenuId" : "01",
+      "Name" : "Fanta Grape",
+      "Price" : "5.49"
+    },
     "12" : {
-      "Description" : "Nothing satisfies quite like Mott’s Light Apple Juice Beverage.",
+      "Description" : "An Austin favorite since 2013, LIVE Soda Kombucha’s familiar flavors and approachable soda format has positioned itself as a delicious, healthy alternative to soft drinks.",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fapple.jpg?alt=media&token=60b4cd58-23fe-4f49-8e53-38cfbb1c3743",
       "MenuId" : "01",
-      "Name" : "Apple Juice",
+      "Name" : "Live Soda",
       "Price" : "2.57"
     },
     "13" : {
       "Description" : "Enjoy Coca-Colas crisp, delicious taste with meals, on the go, or to share. Serve ice cold for maximum refreshment.",
       "Discount" : "2.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%2024pack.jpeg?alt=media&token=32204a5c-8b29-4d29-b174-2d37de95120f",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2FCocaCola%20Zero.jpeg?alt=media&token=a6c755c4-8664-407b-9df8-56112bed9d68",
       "MenuId" : "01",
       "Name" : "Coca Cola",
       "Price" : "6.99"
@@ -437,7 +437,7 @@
     "50" : {
       "Description" : "With a legacy of over 40 years, Gatorade Thirst Quencher is the most scientifically researched and game tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it's trusted by some of the world's best athletes.",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2FG-energy.jpeg?alt=media&token=5f7f2771-91fc-40b0-82c3-c47d69ca2750",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fg-energy.jpg?alt=media&token=95cedf1b-67a7-4224-a7b5-3a11e4b35046",
       "MenuId" : "03",
       "Name" : "Gatorade Cool Blue Sports Drink 32 oz",
       "Price" : "0.99"
@@ -445,7 +445,7 @@
     "51" : {
       "Description" : "A cold, creamy glass of Horizon® organic milk is a good choice for your family and the environment. Our milk comes from cows not given growth hormones* or antibiotics, raised on farms that follow sustainable organic practices.",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmilk.jpeg?alt=media&token=017ebae9-a7f5-4247-b5c9-d7fd2902a0e4",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmilk.jpg?alt=media&token=d98d189b-4879-4275-a9a7-73f7129771b9",
       "MenuId" : "03",
       "Name" : "Horizon Organic Whole Milk 1 gal",
       "Price" : "5.00"
@@ -453,7 +453,7 @@
     "52" : {
       "Description" : "Stay supercharged and active with this Monster Energy® Original drink. The herb-flavored energy drink is not only a good thirst quencher, but also promises to give you long-lasting energy boost. If you want to kickstart your metabolism, fuel your day with this energy-boosting drink.",
       "Discount" : "2.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmonster.jpeg?alt=media&token=51de9037-d8aa-42b8-9b5b-1177013f8d6f",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmonster.jpg?alt=media&token=6633a81e-56b8-4441-a324-44fb5f7114ac",
       "MenuId" : "03",
       "Name" : "Monster EnergyOriginal - 4pk/16 fl oz Cans",
       "Price" : "6.59"
@@ -461,7 +461,7 @@
     "53" : {
       "Description" : "Dew with crafted dark berry. Serving Size: 16.000 ounces Servings per Container: 1.000 Containers per Package: 1.000 Form: liquid Flavor: berry, Carbonation: carbonated,",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2FMtnDrew%20Black%20label.jpeg?alt=media&token=fe4c6d8a-6c15-4dad-bf65-18bc9c2c2cfe",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmt%20dew.jpg?alt=media&token=8b0821c5-2387-4ecb-909c-ba7c12d1831f",
       "MenuId" : "03",
       "Name" : "Mountain Dew Black Label - 16 fl oz Can",
       "Price" : "1.69"
@@ -469,15 +469,15 @@
     "54" : {
       "Description" : "The purely refreshing hydration of water packed with zillions of tiny bubbles to tingle your taste buds. Clean and simple. Serving Size: 8.000 ounces Servings per Container: 3.500 Containers per Package: 1.000 Form: liquid Flavor: plain, Carbonation: carbonated,",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2FPolar.jpeg?alt=media&token=71946271-89ea-45a1-ac16-eb730866dd9c",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fpolar.jpg?alt=media&token=f0609c4e-2238-4031-8074-5b900bb3f356",
       "MenuId" : "03",
       "Name" : "Polar Seltzer 1 liter",
       "Price" : "0.99"
     },
     "55" : {
       "Description" : "Vitalizes body and mind. With Taurine. Lightly carbonated. Red Bull is appreciated worldwide by top athletes, busy professionals, college students and travelers on long journeys. Caffeine content: 114 mg/12 fl oz. Please recycle. 160 calories per can. Made in Austria. Containers per Package: 1.000 Form: liquid Dietary Needs: low fat Flavor: mixed fruit,",
-      "Discount" : "0.99",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fredbud.jpeg?alt=media&token=bf2461ba-e915-4493-ac27-a88307e9cca0",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fred%20bull.jpg?alt=media&token=c0dd5454-1e53-4eaa-8275-2f80bb29c5ad",
       "MenuId" : "03",
       "Name" : "Red Bull® Energy Drink - 12oz",
       "Price" : "2.59"
@@ -485,7 +485,7 @@
     "56" : {
       "Description" : "Add a splash of fruity deliciousness to your sparkling water with a SodaStream MyWater Flavor Essence Variety 3-Pack. This variety pack of SodaStream syrup gives you 3 all-natural flavors to enjoy: orange, raspberry and lemon-lime. It doesn't have any artificial flavors, artificial colors, artificial sweeteners or preservatives. It's a great choice for making unsweetened sparkling soda for your family and friends. Each bottle of this soda syrup makes 12 liters of soda, or about 50 servings. Check out all of our SodaStream flavors to enjoy even more great-tasting sparkling drinks.",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2FSoda%20Stream.jpeg?alt=media&token=79fabaca-9283-48a7-be2e-6b22b4ab993e",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fsoda%20stream.jpg?alt=media&token=41575e95-ac1a-4a83-b8b9-0958b8ad6583",
       "MenuId" : "03",
       "Name" : "SodaStream MyWater Flavor Essence Variety 3-Pack",
       "Price" : "6.99"
@@ -493,418 +493,418 @@
     "57" : {
       "Description" : "Drink a bottle of Purified Water 24 ct from Market Pantry when your thirst needs quenching. This case of bottled water lets you stock up.  Market Pantry promises freshness and quality always at a great value. Serving Size: 16.900 ounces Servings per Container: 1.000 Containers per Package: 24.000 Form: liquid",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fwater.jpeg?alt=media&token=e66ecc66-3f8d-4006-bd56-fee1668788be",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fdrinking%20water.jpg?alt=media&token=9ebf3d5d-6da5-45c4-8aa2-f64a43cb9a56",
       "MenuId" : "03",
       "Name" : "Purified Water - 24pk/16.9 fl oz Bottles - Market Pantry™",
       "Price" : "2.49"
     },
     "58" : {
-      "Description" : "Enjoy Coca-Colas crisp, delicious taste with meals, on the go, or to share. Serve ice cold for maximum refreshment. Serving Size: 8.000 ounces Servings per Container: 2.500 Containers per Package: 1.000 Form: liquid",
-      "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2F12953529.jpg?alt=media&token=3ba88909-85ff-42c0-b2c1-f0e783bda8fb",
+      "Description" : "Serving Size: 12.000 ounces Servings per Container: 12.000 Containers per Package: 1.000 Beer Type: lager Alcohol Percentage: 2.400",
+      "Discount" : "2.99",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fbudweiser.jpg?alt=media&token=a165a840-c8ed-4d98-b2f1-784f47b2f285",
       "MenuId" : "03",
-      "Name" : "Coca-Cola Soda 20 oz",
-      "Price" : "1.99"
+      "Name" : "Budweiser® Select 55 Premium Light Beer - 12pk / 12oz Bottles",
+      "Price" : "17.99"
     },
     "59" : {
-      "Description" : "descriptionhere",
+      "Description" : "Applesauce",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fapplesauce.jpg?alt=media&token=9e8b8d7a-6e35-43e7-b2f4-0d743a5d22ce",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Applesauce",
+      "Price" : "2.50"
     },
     "60" : {
-      "Description" : "descriptionhere",
+      "Description" : "Cheetos but baked",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbaked%20cheetos.jpg?alt=media&token=6528609c-90da-4c9f-b2ca-ffb2f39f0059",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Baked Cheetos",
+      "Price" : "3.00"
     },
     "61" : {
-      "Description" : "descriptionhere",
+      "Description" : "Animal cracker from Barnum's",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbarnum's%20animals%20craker.jpg?alt=media&token=5882d8b2-94dd-41ac-ab44-819917b38e7c",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Barnum's animal cracker",
+      "Price" : "2.00"
     },
     "62" : {
-      "Description" : "descriptionhere",
+      "Description" : "Biscoff cookie",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbiscoff.jpg?alt=media&token=304b670f-5337-40a3-a9b4-35ea6b9ba983",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Biscoff",
+      "Price" : "2.50"
     },
     "63" : {
-      "Description" : "descriptionhere",
+      "Description" : "Boomchickapop Popcorn",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fboom%20chicka%20pop.jpg?alt=media&token=8ffcc8e2-c40b-4a6f-aee5-d52e2a1df4b7",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Boomchickapop",
+      "Price" : "3.00"
     },
     "64" : {
-      "Description" : "descriptionhere",
+      "Description" : "BUSH's Black Beans",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbush%20black%20beans.jpg?alt=media&token=80d1779c-c11d-4f30-933c-e7fca0c00902",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "BUSH'S Black Beans",
+      "Price" : "1.00"
     },
     "65" : {
-      "Description" : "descriptionhere",
+      "Description" : "BUSH's Garbanzo Beans",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbush's%20garbanzo%20beans.jpg?alt=media&token=261f90ba-9ebd-4308-96ae-dd1275e1a818",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "BUSH'S Garbanzo Beans",
+      "Price" : "1.00"
     },
     "66" : {
-      "Description" : "descriptionhere",
+      "Description" : "Cheetos Puffs",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fcheetos%20puff.jpg?alt=media&token=f6620ea5-9d9e-4f36-9552-70852e9a62bc",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Cheetos Puffs",
+      "Price" : "3.50"
     },
     "67" : {
-      "Description" : "descriptionhere",
+      "Description" : "Cheetos Flaming Hot",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fcheetos.jpg?alt=media&token=0eae3e5a-8fd8-4cb9-8407-4094424787a3",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Cheetos",
+      "Price" : "3.50"
     },
     "68" : {
-      "Description" : "descriptionhere",
+      "Description" : "Regular Doritos",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fdoritos.jpg?alt=media&token=0bba8aea-0912-4ca8-947c-fbf5f7b442bd",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Doritos",
+      "Price" : "4.00"
     },
     "69" : {
-      "Description" : "descriptionhere",
+      "Description" : "Easy Cheese Snack",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Feasycheese.jpg?alt=media&token=275c2f53-b8f3-4cd1-9da9-7b98c5d57138",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Easy Cheese",
+      "Price" : "4.00"
     },
     "70" : {
-      "Description" : "descriptionhere",
+      "Description" : "Eaten Path Chips",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Featen%20path.jpg?alt=media&token=bff5a10e-ecc8-4679-b492-f047719bb230",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Eaten Path",
+      "Price" : "2.30"
     },
     "71" : {
-      "Description" : "descriptionhere",
+      "Description" : "Fritos Bean Dip",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Ffritos.jpg?alt=media&token=058fb342-20cc-423d-8136-82df848d20d3",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Fritos",
+      "Price" : "3.50"
     },
     "72" : {
-      "Description" : "descriptionhere",
+      "Description" : "12 Pack Fudges Stripes",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Ffudges%20stripes.jpg?alt=media&token=a0e39eae-e452-4d7c-b927-4c25db813ba8",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Fudges Stripes",
+      "Price" : "8.00"
     },
     "73" : {
-      "Description" : "descriptionhere",
+      "Description" : "Keebler Sandies Cashew Shortbread Cookies",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fkeebler.jpg?alt=media&token=47661186-37d0-4bfa-8b60-77f8ebee90df",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Keebler",
+      "Price" : "3.50"
     },
     "74" : {
-      "Description" : "descriptionhere",
+      "Description" : "Lays Onion Dip ",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Flays.jpg?alt=media&token=fe17191d-6224-4d46-8bb6-ff8bf724202c",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Lays",
+      "Price" : "5.00"
     },
     "75" : {
-      "Description" : "descriptionhere",
+      "Description" : "Oreos Apple Pie",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Foreo%20apple%20pie.jpg?alt=media&token=120d415b-38f2-4929-9188-afe5ffbc63c0",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Oreo Apple Pie",
+      "Price" : "3.00"
     },
     "76" : {
-      "Description" : "descriptionhere",
+      "Description" : "Oreo Pumpkin Spice",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Foreo%20pumpkin%20spice.jpg?alt=media&token=01a8ba4c-59b3-4ab3-b452-f99db35f6456",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Oreo Pumpkin Spice",
+      "Price" : "3.00"
     },
     "77" : {
-      "Description" : "descriptionhere",
+      "Description" : "30 Packs Oreo Team Favorite",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Foreo%20team%20favorites.jpg?alt=media&token=d3beeb80-71c2-48cc-860b-48509482d7b6",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Oreo Team Favorite",
+      "Price" : "10.00"
     },
     "78" : {
-      "Description" : "descriptionhere",
+      "Description" : "Regular Oreo",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Foreo.jpg?alt=media&token=6c7daee2-4b46-4e47-b2c6-aa8f8af738ec",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Oreo",
+      "Price" : "3.00"
     },
     "79" : {
-      "Description" : "descriptionhere",
+      "Description" : "Orville Redenbacher Popcorn",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Forville%20reddenbachers.jpg?alt=media&token=afcc4e6f-81c4-4d98-93f5-0422a3b65d13",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Orville Redenbacher",
+      "Price" : "4.00"
     },
     "80" : {
-      "Description" : "descriptionhere",
+      "Description" : "Pretzels filled with Peanut Butter",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fpeanut%20butter.jpg?alt=media&token=7cc3f5c0-ce22-4720-9e41-f71d3a4979a7",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Peanut Butter Filled Pretzels",
+      "Price" : "8.00"
     },
     "81" : {
-      "Description" : "descriptionhere",
+      "Description" : "Pop Secret Popcorn",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fpop%20secret.jpg?alt=media&token=27e26e70-b7ad-43d0-b288-c4ccf53dfa2f",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Pop Secret",
+      "Price" : "3.50"
     },
     "82" : {
-      "Description" : "descriptionhere",
+      "Description" : "Popcorn, Indiana Black and White",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fpopcorn%20indiana.jpg?alt=media&token=8e211a02-7ace-41fc-b3f1-76abd974fdc6",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Popcorn, Indiana",
+      "Price" : "2.50"
     },
     "83" : {
-      "Description" : "descriptionhere",
+      "Description" : "Special K Pumpkin Spice Pastry Crisps",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fpumpkin%20spice.jpg?alt=media&token=95006080-f7d2-4694-a5cd-9d1775018b13",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Pumpkin Spice",
+      "Price" : "3.00"
     },
     "84" : {
-      "Description" : "descriptionhere",
+      "Description" : "Quacker Rice Cake ",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fquacker.jpg?alt=media&token=9305a312-0f6b-4a91-908c-9154b3bc1f1f",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Quacker",
+      "Price" : "3.00"
     },
     "85" : {
-      "Description" : "descriptionhere",
+      "Description" : "Rico's Flourmer Nacho",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fricos%20flourmet%20nacho.jpg?alt=media&token=f6a24fc2-af1e-4a1c-911c-f3eae8beb962",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Rico's Flourmet Nacho",
+      "Price" : "12.00"
     },
     "86" : {
-      "Description" : "descriptionhere",
+      "Description" : "Rico's Premium Cheddar",
+      "Discount" : "0.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fricos%20priemium.jpg?alt=media&token=36e63130-2023-472b-8d01-d67960687ac5",
+      "MenuId" : "04",
+      "Name" : "Rico's Premium Cheddar",
+      "Price" : "2.50"
+    },
+    "87" : {
+      "Description" : "Rold Gold Brainded Honey Wheat",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Frold%20gold%20brainded.jpg?alt=media&token=2ab2c2c0-8551-40eb-aedd-92c57dea6d92",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Rold Gold Brainded",
+      "Price" : "3.00"
     },
-    "87" : {
-      "Description" : "descriptionhere",
+    "88" : {
+      "Description" : "Rold Gold Original Tiny Twists Pretzels",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Frold%20gold%20original.jpg?alt=media&token=58d5f732-4161-448d-9000-96be4016ecaf",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Rold Gold Original",
+      "Price" : "3.00"
     },
-    "88" : {
-      "Description" : "descriptionhere",
+    "89" : {
+      "Description" : "Rold Gold Sticks Pretzels",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Frold%20gold%20sticks.jpg?alt=media&token=3b7c29db-529a-4559-bc9f-207248482795",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Rold Gold Sticks",
+      "Price" : "2.50"
     },
-    "89" : {
-      "Description" : "descriptionhere",
+    "90" : {
+      "Description" : "Ruffles Sour Cream & Onion",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fruffles.jpg?alt=media&token=ef693f43-fc10-475a-9309-f05cc5a4ae48",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Ruffles",
+      "Price" : "3.00"
     },
-    "90" : {
-      "Description" : "descriptionhere",
+    "91" : {
+      "Description" : "Santitas Yellow Corn Tortillas Triangles",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fsantitas.jpg?alt=media&token=c03b0b2a-b9f8-4c28-ae0f-f1a5d22f0e78",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Santitas",
+      "Price" : "2.00"
     },
-    "91" : {
-      "Description" : "descriptionhere",
+    "92" : {
+      "Description" : "Simply Organic Tostitos Scoops",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fsimply%20organic%20tostitos.jpg?alt=media&token=b7038e2a-0ae2-408d-ae9c-c9ca17b3c620",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Simply Organic Tostitos",
+      "Price" : "4.00"
     },
-    "92" : {
-      "Description" : "descriptionhere",
+    "93" : {
+      "Description" : "Slammers Protein",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fslammers%20protein.jpg?alt=media&token=3a14fe70-b124-4402-8b70-a004fc486a0a",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Slammers Protein",
+      "Price" : "5.00"
     },
-    "93" : {
-      "Description" : "descriptionhere",
+    "94" : {
+      "Description" : "Smartfood White Cheddar",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fsmartfood.jpg?alt=media&token=10de9238-72c2-4484-91f1-07c41a4a7e73",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Smartfood",
+      "Price" : "3.00"
     },
-    "94" : {
-      "Description" : "descriptionhere",
+    "95" : {
+      "Description" : "Soldanza Maduritos Chips",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fsoldanza%20maduritos.jpg?alt=media&token=1312f3ce-7d88-4df6-93c7-a4be623fbea3",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Soldanza Maduritos",
+      "Price" : "3.00"
     },
-    "95" : {
-      "Description" : "descriptionhere",
+    "96" : {
+      "Description" : "Stroopwafel Waffles",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fstroowafels.jpg?alt=media&token=75a3a3b1-c47c-456d-828d-4c3211e6ead4",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Stroopwafel",
+      "Price" : "4.00"
     },
-    "96" : {
-      "Description" : "descriptionhere",
+    "97" : {
+      "Description" : "Snyder's Pretzel Pieces",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fsyders.jpg?alt=media&token=77122991-8aa0-4ffb-9bf8-e4470fbf197a",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Snyder's",
+      "Price" : "4.00"
     },
-    "97" : {
-      "Description" : "descriptionhere",
+    "98" : {
+      "Description" : "Tostitos Fruit Cheese Queso",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Ftostitos%20fruit%20cheese%20queso.jpg?alt=media&token=e4393fa5-9ad6-4730-87d7-a49d1d8f8942",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Tostitos Fruit Cheese Queso",
+      "Price" : "4.00"
     },
-    "98" : {
-      "Description" : "descriptionhere",
+    "99" : {
+      "Description" : "Tostitos Spinach & Artichoke Dip",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Ftostitos%20spinacg%20artichoke%20dip.jpg?alt=media&token=85aa6e67-2435-4340-8991-daa063b482f0",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Tostitos Spinach Artichoke Dip",
+      "Price" : "4.00"
     },
-    "99" : {
-      "Description" : "descriptionhere",
+    "100" : {
+      "Description" : "Salsa Con Queso",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Ftostitos.jpg?alt=media&token=d0da4692-d564-4794-bd90-bd4c2efd868d",
       "MenuId" : "04",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
-    },
-    "100" : {
-      "Description" : "descriptionhere",
-      "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Tostitos",
+      "Price" : "4.00"
     },
     "101" : {
-      "Description" : "descriptionhere",
+      "Description" : "Mixed Fruit in Tropical Flavored Chia",
       "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fchia%20mixed%20fruit%20tropical.jpg?alt=media&token=6df20ec3-5279-4c20-b457-41c6fe54cc34",
+      "MenuId" : "05",
+      "Name" : "Fruit & Chia",
+      "Price" : "2.00"
     },
     "102" : {
-      "Description" : "descriptionhere",
+      "Description" : "Peaches in Strawberry Dragon Fruit Flavored Chia",
       "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fchia%20peaches%20strawberry%20dragonfruit.jpg?alt=media&token=b1050c09-1433-48db-99dc-1be556d29995",
+      "MenuId" : "05",
+      "Name" : "Fruit & Chia",
+      "Price" : "2.00"
     },
     "103" : {
-      "Description" : "descriptionhere",
-      "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Description" : "Vitality Snack Strawberry Banana",
+      "Discount" : "2.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fchia%20squeeze.jpg?alt=media&token=53d6d4c1-68ce-402a-b6e0-963c65ad14f0",
+      "MenuId" : "05",
+      "Name" : "Chia Squeeze",
+      "Price" : "5.00"
     },
     "104" : {
-      "Description" : "descriptionhere",
-      "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Description" : "Del Monte Cherry Mixed Fruit",
+      "Discount" : "1.00",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fdel%20monte.jpg?alt=media&token=13825e69-b15a-4c7a-9160-dc419eb4f6ae",
+      "MenuId" : "05",
+      "Name" : "Del Monte",
+      "Price" : "2.00"
     },
     "105" : {
-      "Description" : "descriptionhere",
+      "Description" : "Dole Mandarin Oranges in 100% fruit juice",
       "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fdole.jpg?alt=media&token=8a0f460e-3af7-4e7c-a4c2-4532b89f05a6",
+      "MenuId" : "05",
+      "Name" : "Dole",
+      "Price" : "3.00"
     },
     "106" : {
-      "Description" : "descriptionhere",
+      "Description" : "Fruit & Veggies on the go",
       "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fgo%20go%20squee%20zveggiez%20fruit.jpg?alt=media&token=3fd8805b-08ec-425d-afd2-025f05d9d97f",
+      "MenuId" : "05",
+      "Name" : "Gogo Squeez Fruit & Veggiez",
+      "Price" : "3.00"
     },
     "107" : {
-      "Description" : "descriptionhere",
+      "Description" : "Applesauce on the go",
       "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fgo%20go%20squeez.jpg?alt=media&token=551902c0-0db9-473e-876f-3aed7f4ae690",
+      "MenuId" : "05",
+      "Name" : "Gogo Squeez",
+      "Price" : "3.00"
     },
     "108" : {
-      "Description" : "descriptionhere",
+      "Description" : "Organic Slammers Superfood Snack Awesome Fruit & Veggie Pouches",
       "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Forganic%20slammers.jpg?alt=media&token=6f5d4a36-aa7e-4b75-8313-314cd5605241",
+      "MenuId" : "05",
+      "Name" : "Organic Slammers",
+      "Price" : "4.00"
     },
     "109" : {
       "Description" : "descriptionhere",
@@ -923,84 +923,84 @@
       "Price" : "0.00"
     },
     "111" : {
-      "Description" : "This is a stapler",
+      "Description" : "Spinach & Roasted Tomato Egg White Frittata",
       "Discount" : "0.25",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2FStapler.jpg?alt=media&token=ad730248-8d65-4d65-bb24-8c14de011814",
       "MenuId" : "06",
-      "Name" : "Stapler",
+      "Name" : "CedarLean",
       "Price" : "2.00"
     },
     "112" : {
-      "Description" : "descriptionhere",
+      "Description" : "Asian Inspired General Tso's Spicy Chicken",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2F25-frozen-meals-general-tsos-spicy-chicken.jpg?alt=media&token=d50e4b41-e7a0-44f7-a3e0-97314a4655b9",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Healthy Choice",
+      "Price" : "2.00"
     },
     "113" : {
-      "Description" : "descriptionhere",
+      "Description" : "Meal Loaf Meal",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2F416dab98c3bc2a3c94c8dc86403aba0e470c4176.jpg?alt=media&token=53cf1a9f-77d0-4014-8fc7-a581f552dd80",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Banquet",
+      "Price" : "2.00"
     },
     "114" : {
-      "Description" : "descriptionhere",
+      "Description" : "Ravioli Florentine Marinara",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2F8b4244c6e7571f4f_ravioli-florentine.jpg?alt=media&token=a93b599c-89a0-4fb9-aa75-f6bd26396203",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Healthy Choice",
+      "Price" : "2.00"
     },
     "115" : {
-      "Description" : "descriptionhere",
+      "Description" : "Crustless Chicken Pot Pie",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2FFrozen-Food-Myths.jpg?alt=media&token=2ce2b5ab-8b6b-4fd9-b341-d104c36dbe58",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Healthy Choice",
+      "Price" : "2.00"
     },
     "116" : {
-      "Description" : "descriptionhere",
+      "Description" : "Sesame Noodles with Vegetables",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2Fhealthyfrozenpromo-itemmaster.com_.jpg?alt=media&token=8157b50f-4697-45f9-a8c7-d4ba3aef639e",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Smart Ones",
+      "Price" : "2.00"
     },
     "117" : {
-      "Description" : "descriptionhere",
+      "Description" : "Lemongrass Coconut Chicken",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2FKashi-Lemongrass-Coconut-Chicken-best-frozen-weightloss-meals-pg-full1.jpg?alt=media&token=ae28d423-0a6a-4b7d-affd-7d2e94eba29c",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Kashi",
+      "Price" : "2.00"
     },
     "118" : {
-      "Description" : "descriptionhere",
+      "Description" : "Cajun Style Chicken & Shrimp",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2Flow-carb-frozen-meals-steamers.gif?alt=media&token=62258e0a-6ced-4a06-91b3-af952fd43002",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Healthy Choice",
+      "Price" : "2.00"
     },
     "119" : {
-      "Description" : "descriptionhere",
+      "Description" : "100% Veggie Chapli Kabab",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2Forgsize_34Chapli-Kabab-Box-3D.jpg?alt=media&token=20c9766d-b02d-45da-aafd-84d713c5fcb2",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Mazedar",
+      "Price" : "2.00"
     },
-    "120" : {
-      "Description" : "descriptionhere",
+	"120" : {
+      "Description" : "Grilled Bourbon Steak Strips",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2Fsteak.jpg?alt=media&token=f42e1e6b-66f8-48f3-8bae-64788448e35d",
       "MenuId" : "06",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Hungry-Man",
+      "Price" : "2.00"
     },
     "121" : {
       "Description" : "The SwissGear 18.5 backpack is perfect for hauling your gear across town, across campus, or across the world. The large capacity padded main compartment and padded airflow back panel ensure you can move in comfort and style. The padded laptop and tablet compartments allow you to safely transport your hardware, and the organizer pocket and water bottle pockets transport the rest of the tools you'll need.\"",
@@ -1163,84 +1163,84 @@
       "Price" : "4.49"
     },
     "141" : {
-      "Description" : "descriptionhere",
+      "Description" : "Eliminates Odors - Disinfectant",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2F0073210947039_A.jpg?alt=media&token=740a9e3d-13ef-479b-a445-92f0fd54b185",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "OdoBan",
+      "Price" : "20.00"
     },
     "142" : {
-      "Description" : "descriptionhere",
+      "Description" : "Kaboom™ Bathroom Cleaner",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2F00953901.jpg?alt=media&token=4e6d7f60-86b2-456a-a3f6-54c0aaa7cee7",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Kaboom",
+      "Price" : "5.00"
     },
     "143" : {
-      "Description" : "descriptionhere",
+      "Description" : "All Purpose Cleaner",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2F14062784.jpg?alt=media&token=0728113a-8834-4482-a0f7-3afd01ef7481",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Lysol",
+      "Price" : "5.50"
     },
     "144" : {
-      "Description" : "descriptionhere",
+      "Description" : "Original",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2F15041118.jpeg?alt=media&token=3f846f3a-3e2c-4fd3-b398-c7b8798658da",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Windex",
+      "Price" : "3.00"
     },
     "145" : {
-      "Description" : "descriptionhere",
+      "Description" : "Super Degreaser",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2F239900.jpg?alt=media&token=7a797c50-a888-43d8-a093-a32f321c07d7",
-      "MenuId" : "You 9",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "MenuId" : "9",
+      "Name" : "Ajax",
+      "Price" : "3.00"
     },
     "146" : {
-      "Description" : "descriptionhere",
+      "Description" : "Clean Everything",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2F51iqBRp4aWL._SX300_QL70_.jpg?alt=media&token=97a9076c-6648-4b1f-93af-d56387a22a52",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Towels",
+      "Price" : "3.00"
     },
     "147" : {
-      "Description" : "descriptionhere",
+      "Description" : "Disinfecting Wipes",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2F81G2T0QgUKL._SX522_.jpg?alt=media&token=1b9e737f-48fb-4e32-ad31-4a40372ee2d9",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Clorox",
+      "Price" : "2.50"
     },
     "148" : {
-      "Description" : "descriptionhere",
+      "Description" : "Cleaner + Bleach Original",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2Fbdf7ec2c-2d8d-4ce3-850c-2e0be3fcddd5_1.facd25973bf156c20cc8468426e062b5.jpg?alt=media&token=8eef77a5-06f3-4571-9ffa-50d54077a23d",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Clorox",
+      "Price" : "4.00"
     },
     "149" : {
-      "Description" : "descriptionhere",
+      "Description" : "Drano Max Gel",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2FCLN_4COL_DrnClnrs.jpg?alt=media&token=c6445060-cf9b-40a4-b16e-7205ea7e0c9a",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Drano",
+      "Price" : "6.00"
     },
     "150" : {
-      "Description" : "descriptionhere",
+      "Description" : "All-Purpose Cleaner",
       "Discount" : "0.00",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2FCLN_4COL_HshldClnrs.jpg?alt=media&token=6e35d7e8-1e87-40cf-8242-0e007bf0a272",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Cleaning%20Supplies%2FDP-44768_4COL_1-2_AllPurposeCleaners.jpg?alt=media&token=451a6b0c-26c6-456f-80fc-fa8a3539f7db",
       "MenuId" : "09",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Name" : "Simple Green",
+      "Price" : "15.00"
     },
     "151" : {
       "Description" : "Toaster",
@@ -1644,92 +1644,45 @@
     }
   },
   "History" : {
-    "-Kyil1A02Nag_SvVloA9" : {
-      "discount" : "0.00",
-      "foodId" : "10",
-      "image" : "emptyURL",
-      "name" : "Empty",
-      "price" : "5.00",
-      "quantity" : "Empty",
-      "userId" : "Empty"
-    },
-    "-KyimWH6whYCDiWO9f3d" : {
-      "discount" : "0.00",
-      "foodId" : "50",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2FG-energy.jpeg?alt=media&token=5f7f2771-91fc-40b0-82c3-c47d69ca2750",
-      "name" : "Gatorade Cool Blue Sports Drink 32 oz",
-      "price" : "0.99",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-Kyimc9i8HjQaoKTIbDK" : {
-      "discount" : "1.00",
+    "-KysAbvRRIKXPXSe1bKm" : {
+      "discount" : "2.99",
       "foodId" : "01",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7Up.jpeg?alt=media&token=2cd3951d-b798-4d89-b266-53ab7b1e31b8",
-      "name" : "7UP Cans 12-Pack",
-      "price" : "3.50",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-Kyimc9j1OL8-3zgWEqC" : {
-      "discount" : "0.00",
-      "foodId" : "60",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Fbaked%20cheetos.jpg?alt=media&token=6528609c-90da-4c9f-b2ca-ffb2f39f0059",
-      "name" : "ItemNameHere",
-      "price" : "0.00",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KyiqdPl_4XORykrFqWN" : {
-      "discount" : "15.00",
-      "foodId" : "121",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2Fbackpack.jpg?alt=media&token=0cc24fac-9bbe-45ca-a4d1-e4a82c7f973b",
-      "name" : "SwissGear® 18.5 Laptop Backpack - Black/Red",
-      "price" : "49.99",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-KyiqdPm-fgKfxDh_Or-" : {
-      "discount" : "0.00",
-      "foodId" : "123",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2Fbinder.jpg?alt=media&token=5de5b0a2-f30f-4a04-9f63-6e264757bb2f",
-      "name" : "cover",
-      "price" : "1.49",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-Kyj2lSM-3C-FJtFE_OF" : {
-      "discount" : "2.00",
-      "foodId" : "52",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Other%20Drinks%2Fmonster.jpeg?alt=media&token=51de9037-d8aa-42b8-9b5b-1177013f8d6f",
-      "name" : "Monster EnergyOriginal - 4pk/16 fl oz Cans",
-      "price" : "6.59",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-Kyj5cXdpaZMNG_vRvMY" : {
-      "discount" : "0.00",
-      "foodId" : "131",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Medicines%2F12049604.jpeg?alt=media&token=66725d9a-c7e5-4239-a0c6-3869e9572611",
-      "name" : "Zyrtec",
-      "price" : "26.99",
-      "quantity" : "1",
-      "userId" : "testingcode"
-    },
-    "-Kyj5cXeTNLaty95iKfh" : {
-      "discount" : "0.00",
-      "foodId" : "151",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Home%20Appliances%2F1233931_ra.jpg%3BmaxHeight%3D640%3BmaxWidth%3D550.jpeg?alt=media&token=e5be0e27-429a-4051-9b81-86582d7bec97",
-      "name" : "Hamilton Beach - Toastation 2-Slice Toaster and Toaster Oven",
-      "price" : "99.99",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2F7%20UP%20Cherry.jpg?alt=media&token=79522f7d-1612-4af2-a819-20b513107d06",
+      "name" : "7 Up Cherry",
+      "price" : "5.29",
       "quantity" : "1",
       "userId" : "testingcode"
     }
   },
   "User" : {
+    "a" : {
+      "id" : "a",
+      "name" : "aa",
+      "password" : "a"
+    },
+    "b" : {
+      "id" : "b",
+      "name" : "ba",
+      "password" : "123"
+    },
+    "t" : {
+      "id" : "t",
+      "name" : "",
+      "password" : "tai"
+    },
+    "tai" : {
+      "id" : "tai",
+      "name" : "taidao",
+      "password" : "tai"
+    },
     "testingcode" : {
       "id" : "testingcode",
       "name" : "123",
+      "password" : "123"
+    },
+    "viet dep trai" : {
+      "id" : "viet dep trai",
+      "name" : "viet qua dep trai",
       "password" : "123"
     }
   }
