@@ -925,7 +925,7 @@
     "111" : {
       "Description" : "Spinach & Roasted Tomato Egg White Frittata",
       "Discount" : "0.25",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Office%20Supplies%2FStapler.jpg?alt=media&token=ad730248-8d65-4d65-bb24-8c14de011814",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2FspinachFrittataMain.png?alt=media&token=3764fb9d-38d3-45ca-8fba-aef005dc33c7",
       "MenuId" : "06",
       "Name" : "CedarLean",
       "Price" : "2.00"
@@ -994,7 +994,7 @@
       "Name" : "Mazedar",
       "Price" : "2.00"
     },
-	"120" : {
+    "120" : {
       "Description" : "Grilled Bourbon Steak Strips",
       "Discount" : "0.00",
       "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2Fsteak.jpg?alt=media&token=f42e1e6b-66f8-48f3-8bae-64788448e35d",
@@ -1652,6 +1652,33 @@
       "price" : "5.29",
       "quantity" : "1",
       "userId" : "testingcode"
+    },
+    "-KysFHBUJ44jxaUKyhXd" : {
+      "discount" : "2.00",
+      "foodId" : "05",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Soda%20and%20Juice%2Fcoca%20cola.jpg?alt=media&token=4b4625d3-374e-4b8f-a644-3112bb4509b4",
+      "name" : "Coca Cola - 24 Pack",
+      "price" : "6.99",
+      "quantity" : "1",
+      "userId" : "tai"
+    },
+    "-KysFHBYv3EuHd4DSQes" : {
+      "discount" : "0.00",
+      "foodId" : "117",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Frozen%20Food%2FKashi-Lemongrass-Coconut-Chicken-best-frozen-weightloss-meals-pg-full1.jpg?alt=media&token=ae28d423-0a6a-4b7d-affd-7d2e94eba29c",
+      "name" : "Kashi",
+      "price" : "2.00",
+      "quantity" : "1",
+      "userId" : "tai"
+    },
+    "-KysFSky_tzdM5DrOZDd" : {
+      "discount" : "0.00",
+      "foodId" : "69",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Snacks%2Feasycheese.jpg?alt=media&token=275c2f53-b8f3-4cd1-9da9-7b98c5d57138",
+      "name" : "Easy Cheese",
+      "price" : "4.00",
+      "quantity" : "1",
+      "userId" : "tai"
     }
   },
   "User" : {
