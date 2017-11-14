@@ -907,20 +907,20 @@
       "Price" : "4.00"
     },
     "109" : {
-      "Description" : "descriptionhere",
-      "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Description" : "Come up with good ideas like Newton when this apple hits your head.",
+      "Discount" : "0.05",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2Fapple-16.jpg?alt=media&token=e6681ca9-b02b-4639-b023-ee7378a73bbd",
+      "MenuId" : "05",
+      "Name" : "Apple",
+      "Price" : ".10"
     },
     "110" : {
-      "Description" : "descriptionhere",
-      "Discount" : "0.00",
-      "Image" : "urlhere",
-      "MenuId" : "01",
-      "Name" : "ItemNameHere",
-      "Price" : "0.00"
+      "Description" : "This project makes me go bananas!",
+      "Discount" : ".07",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myfirebase-87f14.appspot.com/o/Fruits%20and%20Vegetables%2FaHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NS8xNDkvb3JpZ2luYWwvYmFuYW5hcy5qcGc%3D.jpg?alt=media&token=d7d50e4b-7206-4aa1-9ccd-5fd6c0c6209f",
+      "MenuId" : "05",
+      "Name" : "Banana",
+      "Price" : ".13"
     },
     "111" : {
       "Description" : "Spinach & Roasted Tomato Egg White Frittata",
